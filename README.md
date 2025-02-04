@@ -43,7 +43,7 @@ Pseudo3DV is developed as part of Pseudo-Lab's Open Research Initiative. Special
 
 <h2>About Us 👋🏼</h2>
 
-[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and computer vision technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5K researchers, we're committed to pushing the boundaries of 3D vision technology.
+[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5K researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors">
