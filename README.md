@@ -18,7 +18,8 @@
 ## 🚀 Activities
 
 ### 10th
-- Coming soon…
+- [CompactGS (by Wongi Park)](https://github.com/Pseudo-Lab/CompactGS)
+- [LargeSceneRecon-in-AutonomousDriving (by Seongjun Choi)](https://github.com/Pseudo-Lab/LargeSceneRecon-in-AutonomousDriving)
 
 ### 9th
 - [NeRF with RealWorld (by Wongi Park)](https://github.com/Pseudo-Lab/NeRFwithRealWorld)
