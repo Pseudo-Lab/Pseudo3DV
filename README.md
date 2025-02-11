@@ -19,7 +19,7 @@
 
 ### 10th
 - [CompactGS (by Wongi Park)](https://github.com/Pseudo-Lab/CompactGS)
-- [LargeSceneRecon-in-AutonomousDriving (by Seongjun Choi)](https://github.com/Pseudo-Lab/LargeSceneRecon-in-AutonomousDriving)
+- [UrbanSceneRecon (by Seongjun Choi)](https://github.com/Pseudo-Lab/UrbanSceneRecon)
 
 ### 9th
 - [NeRF with RealWorld (by Wongi Park)](https://github.com/Pseudo-Lab/NeRFwithRealWorld)
