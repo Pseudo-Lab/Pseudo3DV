@@ -9,7 +9,7 @@
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
 </div>
-<br>ㅑ
+<br>
 
 > Welcome to Pseudo3DV repository! We aim to study cutting-edge solutions for 3D vision challenges, offering tools and frameworks for 3D data processing, reconstruction, and analysis. Join us in advancing the field of 3D computer vision through open collaboration and innovation!
 
