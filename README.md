@@ -8,17 +8,18 @@
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo3DV" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPseudo-Lab%2FPseudo3DV&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/></a>
 </div>
-<br>
+<br>ㅑ
 
 > Welcome to Pseudo3DV repository! We aim to study cutting-edge solutions for 3D vision challenges, offering tools and frameworks for 3D data processing, reconstruction, and analysis. Join us in advancing the field of 3D computer vision through open collaboration and innovation!
 
-
+## Committee
+- [Wongi Park](https://www.linkedin.com/in/wongipark/)
+- [Seongjun Choi](https://www.linkedin.com/in/seongjun-choi-60b718205/)
 ## 🚀 Activities
 
-### 10th
-- [CompactGS (by Wongi Park)](https://github.com/Pseudo-Lab/CompactGS)
+### 10th (Currently)
+- [Compact and Deblur (by Wongi Park)](https://github.com/Pseudo-Lab/Compact-and-Deblur)
 - [UrbanSceneRecon (by Seongjun Choi)](https://github.com/Pseudo-Lab/UrbanSceneRecon)
 
 ### 9th
