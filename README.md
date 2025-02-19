@@ -1,6 +1,6 @@
-<h1 align="center">Pseudo3DV</h1>
+<h1 align="center">PseudoWorld</h1>
 
-<p align="center"><i>3D Vision groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
+<p align="center"><i>PseudoWorld groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
 
 <div align="center">
 <a href="https://github.com/Pseudo-Lab/Pseudo3DV/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo3DV" alt="Stars Badge"/></a>
@@ -11,7 +11,7 @@
 </div>
 <br>
 
-> Welcome to Pseudo3DV repository! We aim to study cutting-edge solutions for 3D vision challenges, offering tools and frameworks for 3D data processing, reconstruction, and analysis. Join us in advancing the field of 3D computer vision through open collaboration and innovation!
+> Welcome to PseudoWorld repository! We aim to study cutting-edge solutions for Real World challenges. Our groups tackle real-world problems and drive creativity, join us!
 
 ## Committee
 - [Wongi Park](https://www.linkedin.com/in/wongipark/)
@@ -31,8 +31,8 @@
 Our Pseudo3DV operates under the principles of active participation and constructive communication. To maintain a productive and engaging study environment, we ask that all participants adhere to the following guidelines:
 
 - **P**roactive Communication
-- **S**oft Discussions*
-- **E**ssential Prior Knowledge of NeRF & 3DGS
+- **S**oft Discussions
+- **E**ssential Prior Knowledge of basic knowledge DL & ML
 - **U**nderstanding with Code
 - **D**iscussions with Constructive 
 - **O**bligate Camera Usage (CAM)
@@ -41,7 +41,7 @@ Together, we build a collaborative and enriching learning experience! 🚀
 
 <h2>Acknowledgement 🙏</h2>
 
-Pseudo3DV is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+PseudoWorld is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 <h2>About Us 👋🏼</h2>
 
