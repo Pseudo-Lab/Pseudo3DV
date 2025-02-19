@@ -1,17 +1,17 @@
-<h1 align="center">PseudoWild</h1>
+<h1 align="center">Pseudo3DV</h1>
 
-<p align="center"><i>PseudoWild groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
+<p align="center"><i>Pseudo3DV groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
 
 <div align="center">
-<a href="https://github.com/Pseudo-Lab/PseudoWild/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo3DV" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/PseudoWild/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Pseudo3DV" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/PseudoWild/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo3DV" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/PseudoWild/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/PseudoWild/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo3DV/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo3DV" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo3DV/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Pseudo3DV" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo3DV/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo3DV" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo3DV/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
 </div>
 <br>
 
-> Welcome to PseudoWild repository! We aim to study cutting-edge solutions for Real World challenges. Our groups tackle real-world problems and drive creativity, join us!
+> Welcome to Pseudo3DV repository! We aim to study cutting-edge solutions for 3DVision challenges. Our groups tackle 3DV problems and drive creativity, join us!
 
 ## Committee
 - [Wongi Park](https://www.linkedin.com/in/wongipark/)
@@ -41,7 +41,7 @@ Together, we build a collaborative and enriching learning experience! 🚀
 
 <h2>Acknowledgement 🙏</h2>
 
-PseudoWild is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+Pseudo3DV is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 <h2>About Us 👋🏼</h2>
 
