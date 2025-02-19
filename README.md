@@ -1,17 +1,17 @@
-<h1 align="center">PseudoWorld</h1>
+<h1 align="center">PseudoWild</h1>
 
-<p align="center"><i>PseudoWorld groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
+<p align="center"><i>PseudoWild groups by <a href="https://pseudo-lab.com/">Pseudo-Lab.</a></i></p>
 
 <div align="center">
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo3DV" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Pseudo3DV" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo3DV" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/PseudoWild/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo3DV" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PseudoWild/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Pseudo3DV" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PseudoWild/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo3DV" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PseudoWild/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo3DV" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/PseudoWild/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo3DV?color=2b9348"></a>
 </div>
 <br>
 
-> Welcome to PseudoWorld repository! We aim to study cutting-edge solutions for Real World challenges. Our groups tackle real-world problems and drive creativity, join us!
+> Welcome to PseudoWild repository! We aim to study cutting-edge solutions for Real World challenges. Our groups tackle real-world problems and drive creativity, join us!
 
 ## Committee
 - [Wongi Park](https://www.linkedin.com/in/wongipark/)
@@ -28,7 +28,7 @@
 
 
 <h2>📜 Participation Rules 📜</h2>
-Our Pseudo3DV operates under the principles of active participation and constructive communication. To maintain a productive and engaging study environment, we ask that all participants adhere to the following guidelines:
+Our PseudoWild operates under the principles of active participation and constructive communication. To maintain a productive and engaging study environment, we ask that all participants adhere to the following guidelines:
 
 - **P**roactive Communication
 - **S**oft Discussions
@@ -41,15 +41,15 @@ Together, we build a collaborative and enriching learning experience! 🚀
 
 <h2>Acknowledgement 🙏</h2>
 
-PseudoWorld is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+PseudoWild is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 <h2>About Us 👋🏼</h2>
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5K researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/Pseudo3DV/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/Pseudo3DV" />
+<a href="https://github.com/Pseudo-Lab/PseudoWild/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/PseudoWild" />
 </a>
 <br><br>
 
