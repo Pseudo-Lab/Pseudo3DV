@@ -20,7 +20,7 @@
 ### 10th (Currently)
 - [Compact and Deblur (by Wongi Park)](https://github.com/Pseudo-Lab/Compact-and-Deblur)
 - [UrbanSceneRecon (by Seongjun Choi)](https://github.com/Pseudo-Lab/UrbanSceneRecon)
-- [3D Perception (by Gyeongho Cho)](https://github.com/Pseudo-Lab/UrbanSceneRecon)
+- [3D Perception (by Gyeongho Cho)](https://github.com/Pseudo-Lab/3D-Perception)
 
 ### 9th
 - [NeRF with RealWorld (by Wongi Park)](https://github.com/Pseudo-Lab/NeRFwithRealWorld)
