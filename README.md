@@ -14,13 +14,14 @@
 > Welcome to Pseudo3DV repository! We aim to study cutting-edge solutions for 3DVision challenges. Our groups tackle 3DV problems and drive creativity, join us!
 
 ## Committee
-- [Gyeongho Cho](http://gh-cho.me), [Seongjun Choi](https://www.linkedin.com/in/seongjun-choi-60b718205/), [Wongi Park](https://www.linkedin.com/in/wongipark/)
+- [Gyeongho Cho](http://gh-cho.me), [Seongjun Choi](https://www.linkedin.com/in/seongjun-choi-60b718205/), [Wongi Park](https://www.linkedin.com/in/wongipark/), [Geonhak Song](https://www.linkedin.com/in/geonhak-song-09a037165/)
 ## 🚀 Activities
 
 ### 10th (Currently)
 - [Compact and Deblur (by Wongi Park)](https://github.com/Pseudo-Lab/Compact-and-Deblur)
 - [UrbanSceneRecon (by Seongjun Choi)](https://github.com/Pseudo-Lab/UrbanSceneRecon)
 - [3D Perception (by Gyeongho Cho)](https://github.com/Pseudo-Lab/3D-Perception)
+- [Best Vision Paper (by Geonhak Song)](https://github.com/Pseudo-Lab/Best_Vision_Paper)
 
 ### 9th
 - [NeRF with RealWorld (by Wongi Park)](https://github.com/Pseudo-Lab/NeRFwithRealWorld)
