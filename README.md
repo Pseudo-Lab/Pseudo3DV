@@ -36,7 +36,7 @@ Our PseudoWild operates under the principles of active participation and constru
 - **E**ssential Prior Knowledge of basic knowledge DL & ML
 - **U**nderstanding with Code
 - **D**iscussions with Constructive 
-- **O**bligate Camera Usage (CAM)
+- **O**pportunity for us 
 
 Together, we build a collaborative and enriching learning experience! 🚀
 
